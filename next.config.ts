@@ -10,11 +10,12 @@ export default nextConfig;
 module.exports = {
   images: {
     domains: [
-      'cdn.shopify.com',      // Shopify domain
-      'tse4.mm.bing.net',     // Bing domain
-      '4.bp.blogspot.com',    // Blogger domain
+      'cdn.shopify.com', // Shopify domain
+      'tse4.mm.bing.net', // Bing domain
+      '4.bp.blogspot.com', // Blogspot domain
     ],
   },
 };
+
 
 
