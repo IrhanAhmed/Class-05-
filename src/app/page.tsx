@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import FeaturedProducts from "./componnts/featuredProducts";
 import HeroSection from "./componnts/HeroSection";
 
